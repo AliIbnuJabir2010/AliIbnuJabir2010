@@ -1,5 +1,5 @@
 # 💫 About Me:
-Halo, saya Ali Ibnu Jabir, biasa dipanggil Ali.<br><br>Saya seorang pelajar yang sedang belajar programming dan bercita-cita menjadi seorang programmer. Saya tertarik dengan dunia teknologi dan ingin terus mengembangkan kemampuan coding saya.<br><br>Saat ini, saya sedang belajar dan mencoba membuat berbagai proyek untuk meningkatkan kemampuan saya.
+Halo, saya Ali Ibnu Jabir, biasa dipanggil Ali.Saya seorang pelajar yang sedang belajar programming dan bercita-cita menjadi seorang programmer. Saya tertarik dengan dunia teknologi dan ingin terus mengembangkan kemampuan coding saya. Saat ini, saya sedang belajar dan mencoba membuat berbagai proyek untuk meningkatkan kemampuan saya.
 
 
 ## 🌐 Socials:
